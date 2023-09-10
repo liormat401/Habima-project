@@ -26,8 +26,8 @@ Four tasks in a row on the same day would result in a total payment of $200 for 
 If there was a significant time gap between two assigned tasks, the second task would not receive a 20% increase but would be treated as a new task, starting at 100% of the base task value.
 
 Example:
-- 8 am: Set construction (4 hours of work)
-- 18 pm: Play
+- 8 am-12 am : Set construction 
+- 18 pm-21 pm : Play
 
 For that day, the payment would be 100% + 100%.
 
@@ -39,5 +39,24 @@ Tasks also included extra pay based on the distance from the theater, particular
 
 ### Base Task Value
 The base task value was determined by an employee's seniority within the organization.
+
+### Minumum total of tasks per employee in month
+### Minimum Total Tasks
+A minimum total of tasks per employee per month was established. If an employee did not reach this monthly minimum, the theater would compensate them to meet the minimum requirement.
+
+Example: With all the extra pay and percentage increases, an employee completed 18.6 tasks, while the minimum requirement was 20 tasks. In this case, the employee would be compensated for 20 tasks.
+
+This GitHub project aims to provide insights into the transition to the Task-Based Payment Method and the associated changes in operational procedures at Habima Theater.
+
+
+## The exsisting work-process (hourly contacrt):
+![image](https://github.com/liormat401/Habima-project/assets/126070709/52dabd33-2cc0-4530-bcdc-cc929370151f)
+
+- **Problem 1**: Work schedules were sent to the C.O.O in any format the department manager chose - PDF, Word, Excel.
+- **Problem 2**: Clock data couldn't calculate the number of tasks; it only served as proof for extra pay during night shifts or holidays.
+- **Problem 3**: Unexpected changes in the weekly work arrangements could cause recalculation of the task percentage values, requiring C.O.O approval to prevent fraud.
+  
+  For example, an urgent task not in the weekly schedule was assigned to an employee with a time gap instead of one who could complete tasks consecutively.
+
 
 This GitHub project aims to provide insights into the transition to the Task-Based Payment Method and the associated changes in operational procedures at Habima Theater.
