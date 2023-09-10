@@ -57,6 +57,8 @@ This GitHub project aims to provide insights into the transition to the Task-Bas
 - **Problem 3**: Unexpected changes in the weekly work arrangements could cause recalculation of the task percentage values, requiring C.O.O approval to prevent fraud.
   
   For example, an urgent task not in the weekly schedule was assigned to an employee with a time gap instead of one who could complete tasks consecutively.
-
+  
+  ## Conclusion
+In conclusion, there was no existing software or calculator available for this new payment method. Furthermore, the new method was not finalized, leaving no budget or time for the purchase and customization of an existing solution.
 
 This GitHub project aims to provide insights into the transition to the Task-Based Payment Method and the associated changes in operational procedures at Habima Theater.
