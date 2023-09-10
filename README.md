@@ -5,7 +5,7 @@
 As the Habima Theater became a part of the municipal corporation, a significant shift occurred in the payment system for employees within the technical departments. This transition moved away from hourly contracts to adopt a Task-Based Payment Method, The new method led to significant changes in the theater's work processes, starting from weekly work schedules to salary calculations.
 
 ## My Role
-As the COO Assistant at the theater, my primary responsibility was to develop a solution that would enable the implementation of the task-based method.
+As the COO Assistant at the theater(2022), my primary responsibility was to develop a solution that would enable the implementation of the task-based method.
 
 ## The Task-Based Method
 The Task-Based Payment Method introduced several key features:
@@ -70,6 +70,8 @@ To address these challenges, I decided to work with Excel. It offers several adv
 ### Dedicated Weekly Work Schedule Format
 - Data validation: Integrating employee names in the work schedule with the database ensures consistency.
 - Conditional formatting: Checks for compliance with labor laws and detects double assignments of employees.
+  
+  This format was designed to facilitate seamless data import into the database. It allows the database to efficiently calculate the total tasks per employee and their respective percentage values, even in cases with time gaps between tasks.
 
 ### Change Request Format
 - When there is a change in the schedule, the department manager can fill out a change request form, which includes details about time and task assignment. The form is then submitted for approval from the C.O.O.
@@ -80,10 +82,21 @@ To address these challenges, I decided to work with Excel. It offers several adv
 - Distance Table contains distance information, including city names, distance classifications, and Distance-Based Pay rates.
 - An analysis sheet calculates the monthly wage for the C.O.O and the C.F.O.
 
+
+
 This comprehensive solution streamlines the task-based payment process and enhances transparency for both employees and management.
 
 
 
 ![image](https://github.com/liormat401/Habima-project/assets/126070709/3dcf1681-105d-49ef-9a0a-cfcdac644f6b)
+
+## Personal Reflection
+As a junior with zero work experience in a role like this and without the guidance of a senior or a dedicated technology team, I am incredibly proud of what I've accomplished. The journey to think,create and implement these changes has been a tremendous learning experience.
+
+While the solutions I've developed have made impact, I recognize that there is room for improvement. There is need for better automation and dedicated software to handle the work processes described above. This would enhance efficiency.
+But as I said above,there was no budget for software if the tasks-method would go back to hourly payment.
+
+
+Thank you for taking the time to explore this project and my personal reflection:)
 
 
