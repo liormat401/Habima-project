@@ -62,3 +62,11 @@ This GitHub project aims to provide insights into the transition to the Task-Bas
 In conclusion, there was no existing software or calculator available for this new payment method. Furthermore, the new method was not finalized, leaving no budget or time for the purchase and customization of an existing solution.
 
 This GitHub project aims to provide insights into the transition to the Task-Based Payment Method and the associated changes in operational procedures at Habima Theater.
+
+## Implementing solution:
+- **Dedicated weekly work schedule format** in Excel including:
+-  Data validation: to integrate the names in the work schedule and the database will be the same
+-   Conditional formatting: checks labor laws are bieng kept, checks for double assingment of employee
+
+
+![image](https://github.com/liormat401/Habima-project/assets/126070709/3dcf1681-105d-49ef-9a0a-cfcdac644f6b)
