@@ -54,19 +54,36 @@ This GitHub project aims to provide insights into the transition to the Task-Bas
 
 - **Problem 1**: Work schedules were sent to the C.O.O in any format the department manager chose - PDF, Word, Excel.
 - **Problem 2**: Clock data couldn't calculate the number of tasks; it only served as proof for extra pay during night shifts or holidays.
-- **Problem 3**: Unexpected changes in the weekly work arrangements could cause recalculation of the task percentage values, requiring C.O.O approval to prevent fraud.
+- **Problem 3**: Unexpected changes in the weekly work arrangements needed to be supervised.the could cause recalculation of the task percentage values, requiring C.O.O approval to prevent fraud.
   
   For example, an urgent task not in the weekly schedule was assigned to an employee with a time gap instead of one who could complete tasks consecutively.
-  
-  ## Conclusion
-In conclusion, there was no existing software or calculator available for this new payment method. Furthermore, the new method was not finalized, leaving no budget or time for the purchase and customization of an existing solution.
+ - **Problem 4**: By law, employees needed a detailed sheet to know what they were being paid for, something that HR and clock data couldn't provide due to the lack of task-level detail.
+
+## Conclusion
+In conclusion, there was no existing software or calculator available for this new payment method; everything was handled through emails. Furthermore, the new method was not finalized, leaving no budget or time for the purchase and customization of an existing solution.
 
 This GitHub project aims to provide insights into the transition to the Task-Based Payment Method and the associated changes in operational procedures at Habima Theater.
 
-## Implementing solution:
-- **Dedicated weekly work schedule format** in Excel including:
--  Data validation: to integrate the names in the work schedule and the database will be the same
--   Conditional formatting: checks labor laws are bieng kept, checks for double assingment of employee
+## Implementing and Developing a Solution
+To address these challenges, I decided to work with Excel. It offers several advantages, including user-friendliness, no need for technical expertise, free usage, easy maintenance, and cloud protection.
+
+### Dedicated Weekly Work Schedule Format
+- Data validation: Integrating employee names in the work schedule with the database ensures consistency.
+- Conditional formatting: Checks for compliance with labor laws and detects double assignments of employees.
+
+### Change Request Format
+- When there is a change in the schedule, the department manager can fill out a change request form, which includes details about time and task assignment. The form is then submitted for approval from the C.O.O.
+
+### Database
+- The main table includes dates, employees, and detailed task payment information.
+- Employees Table- contains ID, Employee Number, Name, Date of Start, Seniority (calculated from the last), and Base Task Value (calculated from the last).
+- Distance Table contains distance information, including city names, distance classifications, and Distance-Based Pay rates.
+- An analysis sheet calculates the monthly wage for the C.O.O and the C.F.O.
+
+This comprehensive solution streamlines the task-based payment process and enhances transparency for both employees and management.
+
 
 
 ![image](https://github.com/liormat401/Habima-project/assets/126070709/3dcf1681-105d-49ef-9a0a-cfcdac644f6b)
+
+
