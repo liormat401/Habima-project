@@ -40,7 +40,6 @@ Tasks also included extra pay based on the distance from the theater, particular
 ### Base Task Value
 The base task value was determined by an employee's seniority within the organization.
 
-### Minumum total of tasks per employee in month
 ### Minimum Total Tasks
 A minimum total of tasks per employee per month was established. If an employee did not reach this monthly minimum, the theater would compensate them to meet the minimum requirement.
 
