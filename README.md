@@ -89,11 +89,46 @@ This comprehensive solution streamlines the task-based payment process and enhan
 
 ![image](https://github.com/liormat401/Habima-project/assets/126070709/3dcf1681-105d-49ef-9a0a-cfcdac644f6b)
 
+## My real vision
+
+If I had the budget and Dev team,my final vision solution was:
+- One system that automates and communicates with all other systems in the Theater including clock-data.
+- Differet screens to COO and technical deparntments managers:
+  
+  ![image](https://github.com/liormat401/Habima-project/assets/126070709/db22737a-dab8-4b19-a53a-f6d60b2f5408)
+  _COO screen_
+
+  ![image](https://github.com/liormat401/Habima-project/assets/126070709/72095e24-9762-4932-a44c-3dda123acfc4)
+  _Technical Depratment Manager's screen_
+
+- compliance with labor laws checkings and detecting double assignments of employees, while assigning the weekly-work schedule
+- 
+With two options- send to the coo, and a locked option is to publish to employees. the last he can do only if the C.O.O had locked the weekly work schedule and accepted it in his screen 
+
+![image](https://github.com/liormat401/Habima-project/assets/126070709/b4276f9d-92ea-4eaf-acdf-f46033c90e12)
+_Manager's screen for weekly-work schedule_
+
+- Change Request in more user-friendly way for the managers
+![image](https://github.com/liormat401/Habima-project/assets/126070709/f8d7be8a-ff20-44ba-bcec-05e3dba077fc)
+_Manager changing name as for employee sick and other replaced him_
+
+- Organized screen of requested, with each request from the manager there is clock data(triggered from date and employee ID) for evidence
+- ![image](https://github.com/liormat401/Habima-project/assets/126070709/bdc623f3-c330-44e1-b8f1-5173c73cffa0)
+  _COO's screen of messages and requests_
+
+  
+
+
+
+  
+
+
 ## Personal Reflection
 As a junior with zero work experience in a role like this and without the guidance of a senior or a dedicated technology team, I am incredibly proud of what I've accomplished. The journey to think,create and implement these changes has been a tremendous learning experience.
 
 While the solutions I've developed have made impact, I recognize that there is room for improvement. There is need for better automation and dedicated software to handle the work processes described above. This would enhance efficiency.
 But as I said above,there was no budget for software if the tasks-method would go back to hourly payment.
+
 
 
 Thank you for taking the time to explore this project and my personal reflection:)
