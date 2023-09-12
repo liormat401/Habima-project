@@ -93,7 +93,7 @@ This comprehensive solution streamlines the task-based payment process and enhan
 
 If I had the budget and Dev team,my final vision solution was:
 - One system that automates and communicates with all other systems in the Theater including clock-data.
-- Differet screens to COO and technical deparntments managers:
+- **Differet screens to COO and technical deparntments managers**:
   
   ![image](https://github.com/liormat401/Habima-project/assets/126070709/db22737a-dab8-4b19-a53a-f6d60b2f5408)
   _COO screen_
@@ -101,20 +101,25 @@ If I had the budget and Dev team,my final vision solution was:
   ![image](https://github.com/liormat401/Habima-project/assets/126070709/72095e24-9762-4932-a44c-3dda123acfc4)
   _Technical Depratment Manager's screen_
 
-- compliance with labor laws checkings and detecting double assignments of employees, while assigning the weekly-work schedule
-- 
-With two options- send to the coo, and a locked option is to publish to employees. the last he can do only if the C.O.O had locked the weekly work schedule and accepted it in his screen 
+- **compliance with labor laws checkings and detecting double assignments of employees, while assigning the weekly-work schedule**
+ 
+With two options- 
+1.Send to the COO, 2. (a now locked option) Publish to employees. The last he can do only if the C.O.O had locked the weekly work schedule and accepted it in his screen 
 
 ![image](https://github.com/liormat401/Habima-project/assets/126070709/b4276f9d-92ea-4eaf-acdf-f46033c90e12)
 _Manager's screen for weekly-work schedule_
 
-- Change Request in more user-friendly way for the managers
+- **Change Request in more user-friendly way for the managers**
+  
 ![image](https://github.com/liormat401/Habima-project/assets/126070709/f8d7be8a-ff20-44ba-bcec-05e3dba077fc)
 _Manager changing name as for employee sick and other replaced him_
 
-- Organized screen of requested, with each request from the manager there is clock data(triggered from date and employee ID) for evidence
-- ![image](https://github.com/liormat401/Habima-project/assets/126070709/bdc623f3-c330-44e1-b8f1-5173c73cffa0)
-  _COO's screen of messages and requests_
+- **Organized screen of requested, with each request from the manager there is clock data(triggered from date and employee ID) for evidence**
+  
+  
+![image](https://github.com/liormat401/Habima-project/assets/126070709/13376d75-ad8b-4d14-84c7-f89e3baa787f)
+
+ _COO's screen of messages and requests_
 
   
 
