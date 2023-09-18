@@ -91,31 +91,38 @@ This comprehensive solution streamlines the task-based payment process and enhan
 
 ## My real vision
 
-If I had the budget and Dev team,my final vision solution was:
-- One system that automates and communicates with all other systems in the Theater including clock-data.
-- **Differet screens to COO and technical deparntments managers**:
+If I had the budget and a dedicated development team, my final vision for the solution would encompass the following components:
+
+**Integrated System**
+Create a centralized system that automates and seamlessly communicates with all other systems within the theater, including clock-data management.
+
+**User-Friendly Interfaces**
+Design different interfaces tailored for the COO and technical department managers to optimize their user experiences:
+
+- **C.O.O Interface**
   
   ![image](https://github.com/liormat401/Habima-project/assets/126070709/db22737a-dab8-4b19-a53a-f6d60b2f5408)
-  _COO screen_
 
+- **Technical Department Manager's Interface**
   ![image](https://github.com/liormat401/Habima-project/assets/126070709/72095e24-9762-4932-a44c-3dda123acfc4)
-  _Technical Depratment Manager's screen_
-
-- **compliance with labor laws checkings and detecting double assignments of employees, while assigning the weekly-work schedule**
  
-With two options- 
-1.Send to the COO, 2. (a now locked option) Publish to employees. The last he can do only if the C.O.O had locked the weekly work schedule and accepted it in his screen 
+
+**Compliance and Approval Process**
+ 
+Implement compliance checks to ensure adherence to labor laws and prevent double assignments of employees while generating the weekly work schedule. The COO reviews and can lock the schedule. Managers can publish it only after COO's approval. 
 
 ![image](https://github.com/liormat401/Habima-project/assets/126070709/b4276f9d-92ea-4eaf-acdf-f46033c90e12)
 _Manager's screen for weekly-work schedule_
 
-- **Change Request in more user-friendly way for the managers**
+**Streamlined Change Requests**
+Revise the change request process to make it more user-friendly for managers, allowing them to efficiently handle scenarios like employee sick leave or replacements.
   
 ![image](https://github.com/liormat401/Habima-project/assets/126070709/f8d7be8a-ff20-44ba-bcec-05e3dba077fc)
 _Manager changing name as for employee sick and other replaced him_
 
-- **Organized screen of requested, with each request from the manager there is clock data(triggered from date and employee ID) for evidence**
-  
+**Organized Request Tracking**
+
+Develop a centralized dashboard to organize and manage change requests, incorporating clock data for evidentiary purposes.
   
 ![image](https://github.com/liormat401/Habima-project/assets/126070709/13376d75-ad8b-4d14-84c7-f89e3baa787f)
 
@@ -131,7 +138,7 @@ _Manager changing name as for employee sick and other replaced him_
 ## Personal Reflection
 As a junior with zero work experience in a role like this and without the guidance of a senior or a dedicated technology team, I am incredibly proud of what I've accomplished. The journey to think,create and implement these changes has been a tremendous learning experience.
 
-While the solutions I've developed have made impact, I recognize that there is room for improvement. There is need for better automation and dedicated software to handle the work processes described above. This would enhance efficiency.
+While the solutions I've developed have made positive impact, I recognize that there is room for improvement. There is need for better automation and dedicated software to handle the work processes described above. This would enhance efficiency.
 But as I said above,there was no budget for software if the tasks-method would go back to hourly payment.
 
 
